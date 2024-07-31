@@ -1,4 +1,4 @@
-module django_password_hasher
+module github.com/SJTU-jCourse/django_password_hasher
 
 go 1.22
 
